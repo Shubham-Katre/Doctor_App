@@ -73,5 +73,4 @@ This endpoint makes a call to method in Service class which is connected to data
 ## 📝Project Summary
 
 I have created Doctor App project using data source project.  In this project, In this project user  Can delete , update , get ,  can find. etc...
-
-![Alt text](https://media.tenor.com/Ra5kgH_k8yMAAAAj/thank-you-thank-you-heart.gif)
+\
