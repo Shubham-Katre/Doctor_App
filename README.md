@@ -1,5 +1,5 @@
 <center>
-<h1> 🏚️Doctor App</h1>
+<h1>Doctor App</h1>
 </center>
 <center>
 <a href="Java url">
